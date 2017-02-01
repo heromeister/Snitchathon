@@ -1,0 +1,6 @@
+c:\users\temp.minint-oe9f2bc\documents\visual studio 2015\Projects\SnitchExe\SnitchExe\bin\Debug\SnitchExe.exe.config
+c:\users\temp.minint-oe9f2bc\documents\visual studio 2015\Projects\SnitchExe\SnitchExe\bin\Debug\SnitchExe.exe
+c:\users\temp.minint-oe9f2bc\documents\visual studio 2015\Projects\SnitchExe\SnitchExe\bin\Debug\SnitchExe.pdb
+c:\users\temp.minint-oe9f2bc\documents\visual studio 2015\Projects\SnitchExe\SnitchExe\obj\Debug\SnitchExe.csprojResolveAssemblyReference.cache
+c:\users\temp.minint-oe9f2bc\documents\visual studio 2015\Projects\SnitchExe\SnitchExe\obj\Debug\SnitchExe.exe
+c:\users\temp.minint-oe9f2bc\documents\visual studio 2015\Projects\SnitchExe\SnitchExe\obj\Debug\SnitchExe.pdb
